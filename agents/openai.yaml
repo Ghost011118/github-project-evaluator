@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub Project Evaluator"
+  short_description: "Evidence-based ratings for projects, skills, and agents"
+  default_prompt: "Use $github-project-evaluator to rate this GitHub project, skill, or agent with evidence: [URL or local path]."
